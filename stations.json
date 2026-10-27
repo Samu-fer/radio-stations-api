@@ -51,5 +51,29 @@
   "streamUrl": "https://www.youtube.com/watch?v=INITIAL_ID",
   "genre": "Música / Pop / Latino",
   "country": "Argentina"
-}
+  }
+  {
+    "id": "station_vorterix_twitch",
+    "name": "Vorterix",
+    "streamType": "TWITCH",
+    "streamUrl": "vorterix",
+    "genre": "Rock / Entretenimiento",
+    "country": "Argentina"
+  },
+  {
+    "id": "station_filo_twitch",
+    "name": "Filo News",
+    "streamType": "TWITCH",
+    "streamUrl": "filonewsok",
+    "genre": "Actualidad / Entrevistas",
+    "country": "Argentina"
+  }
+  {
+  "id": "station_urbanaplay_twitch",
+  "name": "Urbana Play FM",
+  "streamType": "TWITCH",
+  "streamUrl": "urbanaplayfm",
+  "genre": "Radio / Streaming",
+  "country": "Argentina"
+  }
 ]
