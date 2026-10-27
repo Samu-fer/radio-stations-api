@@ -2,12 +2,14 @@
   {
     "id": "station_tn_envivo",
     "name": "TN Todo Noticias",
+    "streamType": "YOUTUBE",
     "channelId": "UCtnWCp5ilutoQx4jP0A_i1A",
     "streamUrl": "https://www.youtube.com/watch?v=INITIAL_ID"
   },
   {
     "id": "station_c5n_envivo",
     "name": "C5N En Vivo",
+    "streamType": "YOUTUBE",
     "channelId": "UCwQ4xbe9jK15X6iA5pZ1i-g",
     "streamUrl": "https://www.youtube.com/watch?v=INITIAL_ID"
   }
