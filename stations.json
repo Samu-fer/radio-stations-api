@@ -42,5 +42,14 @@
   "streamUrl": "https://www.youtube.com/watch?v=b-bK2Vn3D38",
   "genre": "Streaming",
   "country": "Argentina"
+  },
+  {
+  "id": "station_vale_975",
+  "name": "Radio Vale FM 97.5",
+  "streamType": "YOUTUBE",
+  "channelId": "UC1Oa7gHuqzGHB90FPb0ssPA",
+  "streamUrl": "https://www.youtube.com/watch?v=INITIAL_ID",
+  "genre": "Música / Pop / Latino",
+  "country": "Argentina"
 }
 ]
