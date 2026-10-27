@@ -1,16 +1,46 @@
 [
   {
-    "id": "station_tn_envivo",
-    "name": "TN Todo Noticias",
+    "id": "station_olga",
+    "name": "Olga En Vivo",
     "streamType": "YOUTUBE",
-    "channelId": "UCtnWCp5ilutoQx4jP0A_i1A",
-    "streamUrl": "https://www.youtube.com/watch?v=INITIAL_ID"
+    "channelId": "UC7mJ2EDXFomeDIRFu5FtEbA",
+    "streamUrl": "https://www.youtube.com/watch?v=INITIAL_ID",
+    "genre": "Streaming / Entretenimiento",
+    "country": "Argentina"
   },
   {
-    "id": "station_c5n_envivo",
-    "name": "C5N En Vivo",
+    "id": "station_bondi",
+    "name": "Bondi Live",
     "streamType": "YOUTUBE",
-    "channelId": "UCwQ4xbe9jK15X6iA5pZ1i-g",
-    "streamUrl": "https://www.youtube.com/watch?v=j6oh4Kqz3UM"
-  }
+    "channelId": "UCnZidingmuqNkaT9Wm64Xxg",
+    "streamUrl": "https://www.youtube.com/watch?v=INITIAL_ID",
+    "genre": "Streaming / Actualidad",
+    "country": "Argentina"
+  },
+  {
+    "id": "station_luzu",
+    "name": "LUZU TV",
+    "streamType": "YOUTUBE",
+    "channelId": "UCTHaNTsP7hsVgBxARZTuajw",
+    "streamUrl": "https://www.youtube.com/watch?v=INITIAL_ID",
+    "genre": "Streaming / Variedad",
+    "country": "Argentina"
+  },
+  {
+    "id": "station_urbana_play",
+    "name": "Urbana Play 104.3",
+    "streamType": "YOUTUBE",
+    "channelId": "UCC1kfsMJko54AqxtcFECt-A",
+    "streamUrl": "https://www.youtube.com/watch?v=INITIAL_ID",
+    "genre": "Radio / Streaming",
+    "country": "Argentina"
+  },
+  {
+  "id": "station_custom_youtube",
+  "name": "Transmisión en Vivo",
+  "streamType": "YOUTUBE",
+  "streamUrl": "https://www.youtube.com/watch?v=KUragMItgco",
+  "genre": "Streaming",
+  "country": "Argentina"
+}
 ]
